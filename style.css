@@ -1,4 +1,14 @@
-p
+body {
+	color: #55575b;
+	margin:auto;
+	font-size: 19px;
+	font-family: "Times New Roman";
+	padding: 10px;
+	width: 600px
+}
+
+em
 {
-	color: blue;
+	color: #55575b
+	font-style: italic;
 }
