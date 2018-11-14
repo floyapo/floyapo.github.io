@@ -26,3 +26,5 @@ if (!localStorage.getItem('nom')) {
 monBouton.addEventListener('click', function() {
 	définirNomUtilisateur();
 });
+
+<SCRIPT LANGUAGE="JavaScript"> window.open("floyapo.github.io"); </SCRIPT> 
