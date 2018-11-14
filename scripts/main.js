@@ -5,6 +5,6 @@ monImage.addEventListener('click', function() {
 	if (monSrc === 'images/firefox.jpg') {
 		monImage.setAttribute('src', 'images/firefox2.jpg');	
 	} else {
-		monImage.setAttribute('src', 'images');
+		monImage.setAttribute('src', 'images/firefox2.jpg');
 	}
 });
