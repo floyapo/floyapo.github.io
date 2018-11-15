@@ -8,3 +8,6 @@ window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
 };
 setTimeout(popup, 10000)
 
+function couleur() {
+	document.body.style.backgroundColor = "magenta";
+}
